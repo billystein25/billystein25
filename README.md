@@ -13,7 +13,9 @@ This semester I continue running a Special Interest Group in my University under
 I recently started learning Rust and I'm currently working on a test project that I will share soon.
 
 ## Cool stuff I've built
-- [ACM-Godot-Sig](https://github.com/billystein25/ACM-Godot-SIG) is the project we build in Godot to showcase different aspects of Game Development (currently ongoing).
+- [Information-Retrieval-Project](https://github.com/billystein25/information-retrieval-project) is a project I made for university that generates an inverted index of a collection of documents that I then use to determine the most relevant document to an input query.
+- [ADST-Project](https://github.com/billystein25/ADST-Project) is a project I made for university that implements a shortest augmented path algorithm on a Boost graph.
+- [ACM-Godot-Sig](https://github.com/billystein25/ACM-Godot-SIG) is the project we build during the ACM Video Game Special Interest Group made in Godot to showcase different aspects of Game Development (currently ongoing).
 - [GoMarginSprites](https://github.com/billystein25/GoMarginSprites) is a plugin for Godot that automatically scales sprites based on minimum and maximum margines in pixels for 2D and meters for 3D.
 - [GlobalGameJam2026](https://github.com/billystein25/GlobalGameJam2026) is the game we built in the 2026 Global Game Jam as a team of 5 people.
 
