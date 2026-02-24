@@ -7,7 +7,7 @@ I'm Vasilis but you can call me Billy. I'm an undergraduate at the University of
 Accross many projects I have primarily used C, C++, and Python. As a hobyist I spend a lot of my time learning Godot and researching Game Development as a whole. I have also made a couple of projects using HTML and PHP though I'm not as experienced with these languages compared to the previous ones.
 
 ## What are you working on now?
-This semester I continue I'm running a Special Interest Group in my University under ACM where I teach about Game Development and Design. I am also doing research in Game Engine Architectures for my thesis that I will start developing next semester.
+This semester I continue running a Special Interest Group in my University under ACM where I teach about Game Development and Design. I am also doing research in Game Engine Architectures for my thesis that I will start developing next semester.
 
 ## What are you learning?
 I recently started learning Rust and I'm currently working on a test project that I will share soon.
@@ -20,8 +20,8 @@ I recently started learning Rust and I'm currently working on a test project tha
 <hr>
 
 ## Fun Facts
-- My Favorite Game is Hi-Fi Rush
 - I enjoy fresh juice and tea
+- My Favorite Game is Hi-Fi Rush
 - Front-end development terrifies me
 
 <!--
